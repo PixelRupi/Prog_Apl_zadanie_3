@@ -1,0 +1,53 @@
+D:\studia\sem 3\programowanie aplikacji\zadanie_3\zadanie_3\bin\Debug\zadanie_3.exe.config
+D:\studia\sem 3\programowanie aplikacji\zadanie_3\zadanie_3\bin\Debug\zadanie_3.exe
+D:\studia\sem 3\programowanie aplikacji\zadanie_3\zadanie_3\bin\Debug\zadanie_3.pdb
+D:\studia\sem 3\programowanie aplikacji\zadanie_3\zadanie_3\obj\Debug\zadanie_3.csproj.AssemblyReference.cache
+D:\studia\sem 3\programowanie aplikacji\zadanie_3\zadanie_3\obj\Debug\zadanie_3.csproj.SuggestedBindingRedirects.cache
+D:\studia\sem 3\programowanie aplikacji\zadanie_3\zadanie_3\obj\Debug\zadanie_3.Form1.resources
+D:\studia\sem 3\programowanie aplikacji\zadanie_3\zadanie_3\obj\Debug\zadanie_3.Properties.Resources.resources
+D:\studia\sem 3\programowanie aplikacji\zadanie_3\zadanie_3\obj\Debug\zadanie_3.csproj.GenerateResource.cache
+D:\studia\sem 3\programowanie aplikacji\zadanie_3\zadanie_3\obj\Debug\zadanie_3.csproj.CoreCompileInputs.cache
+D:\studia\sem 3\programowanie aplikacji\zadanie_3\zadanie_3\obj\Debug\zadanie_3.exe
+D:\studia\sem 3\programowanie aplikacji\zadanie_3\zadanie_3\obj\Debug\zadanie_3.pdb
+C:\Users\Piotr\Desktop\zadanie_3\zadanie_3\obj\Debug\zadanie_3.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\zadanie_3\zadanie_3\obj\Debug\zadanie_3.Form1.resources
+C:\Users\Piotr\Desktop\zadanie_3\zadanie_3\obj\Debug\zadanie_3.Properties.Resources.resources
+C:\Users\Piotr\Desktop\zadanie_3\zadanie_3\obj\Debug\zadanie_3.csproj.GenerateResource.cache
+C:\Users\Piotr\Desktop\zadanie_3\zadanie_3\obj\Debug\zadanie_3.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\zadanie_3\zadanie_3\obj\Debug\zadanie_3.exe
+C:\Users\Piotr\Desktop\zadanie_3\zadanie_3\obj\Debug\zadanie_3.pdb
+C:\Users\Piotr\Desktop\zadanie_3\zadanie_3\bin\Debug\zadanie_3.exe.config
+C:\Users\Piotr\Desktop\zadanie_3\zadanie_3\bin\Debug\zadanie_3.exe
+C:\Users\Piotr\Desktop\zadanie_3\zadanie_3\bin\Debug\zadanie_3.pdb
+C:\Users\Piotr\Desktop\zadanie_3-nowe\zadanie_3\bin\Debug\zadanie_3.exe.config
+C:\Users\Piotr\Desktop\zadanie_3-nowe\zadanie_3\bin\Debug\zadanie_3.exe
+C:\Users\Piotr\Desktop\zadanie_3-nowe\zadanie_3\bin\Debug\zadanie_3.pdb
+C:\Users\Piotr\Desktop\zadanie_3-nowe\zadanie_3\obj\Debug\zadanie_3.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\zadanie_3-nowe\zadanie_3\obj\Debug\zadanie_3.Form1.resources
+C:\Users\Piotr\Desktop\zadanie_3-nowe\zadanie_3\obj\Debug\zadanie_3.Properties.Resources.resources
+C:\Users\Piotr\Desktop\zadanie_3-nowe\zadanie_3\obj\Debug\zadanie_3.csproj.GenerateResource.cache
+C:\Users\Piotr\Desktop\zadanie_3-nowe\zadanie_3\obj\Debug\zadanie_3.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\zadanie_3-nowe\zadanie_3\obj\Debug\zadanie_3.exe
+C:\Users\Piotr\Desktop\zadanie_3-nowe\zadanie_3\obj\Debug\zadanie_3.pdb
+C:\Users\piotr\Desktop\zadanie_3-najnowsze\zadanie_3\bin\Debug\zadanie_3.exe.config
+C:\Users\piotr\Desktop\zadanie_3-najnowsze\zadanie_3\bin\Debug\zadanie_3.exe
+C:\Users\piotr\Desktop\zadanie_3-najnowsze\zadanie_3\bin\Debug\zadanie_3.pdb
+C:\Users\piotr\Desktop\zadanie_3-najnowsze\zadanie_3\obj\Debug\zadanie_3.csproj.AssemblyReference.cache
+C:\Users\piotr\Desktop\zadanie_3-najnowsze\zadanie_3\obj\Debug\zadanie_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\piotr\Desktop\zadanie_3-najnowsze\zadanie_3\obj\Debug\zadanie_3.Form1.resources
+C:\Users\piotr\Desktop\zadanie_3-najnowsze\zadanie_3\obj\Debug\zadanie_3.Properties.Resources.resources
+C:\Users\piotr\Desktop\zadanie_3-najnowsze\zadanie_3\obj\Debug\zadanie_3.csproj.GenerateResource.cache
+C:\Users\piotr\Desktop\zadanie_3-najnowsze\zadanie_3\obj\Debug\zadanie_3.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\zadanie_3-najnowsze\zadanie_3\obj\Debug\zadanie_3.exe
+C:\Users\piotr\Desktop\zadanie_3-najnowsze\zadanie_3\obj\Debug\zadanie_3.pdb
+D:\studia\sem 3\programowanie aplikacji\zadanie_3-najnowsze\zadanie_3\bin\Debug\zadanie_3.exe.config
+D:\studia\sem 3\programowanie aplikacji\zadanie_3-najnowsze\zadanie_3\bin\Debug\zadanie_3.exe
+D:\studia\sem 3\programowanie aplikacji\zadanie_3-najnowsze\zadanie_3\bin\Debug\zadanie_3.pdb
+D:\studia\sem 3\programowanie aplikacji\zadanie_3-najnowsze\zadanie_3\obj\Debug\zadanie_3.csproj.AssemblyReference.cache
+D:\studia\sem 3\programowanie aplikacji\zadanie_3-najnowsze\zadanie_3\obj\Debug\zadanie_3.csproj.SuggestedBindingRedirects.cache
+D:\studia\sem 3\programowanie aplikacji\zadanie_3-najnowsze\zadanie_3\obj\Debug\zadanie_3.Form1.resources
+D:\studia\sem 3\programowanie aplikacji\zadanie_3-najnowsze\zadanie_3\obj\Debug\zadanie_3.Properties.Resources.resources
+D:\studia\sem 3\programowanie aplikacji\zadanie_3-najnowsze\zadanie_3\obj\Debug\zadanie_3.csproj.GenerateResource.cache
+D:\studia\sem 3\programowanie aplikacji\zadanie_3-najnowsze\zadanie_3\obj\Debug\zadanie_3.csproj.CoreCompileInputs.cache
+D:\studia\sem 3\programowanie aplikacji\zadanie_3-najnowsze\zadanie_3\obj\Debug\zadanie_3.exe
+D:\studia\sem 3\programowanie aplikacji\zadanie_3-najnowsze\zadanie_3\obj\Debug\zadanie_3.pdb
